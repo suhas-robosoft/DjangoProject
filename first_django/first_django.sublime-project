@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\MVC"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\MVCPHP"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "static_in_env"
+		}
+	]
+}
